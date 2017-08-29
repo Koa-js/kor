@@ -1,5 +1,5 @@
 {
-  "name": "kor",
+  "name": "neat-kor",
   "version": "1.0.0",
   "description": "wrap router for koa.",
   "main": "index.js",
