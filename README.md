@@ -1,6 +1,11 @@
 # kor
 wrap router for koa
 
+### Install
+```shell
+npm install neat-kor
+```
+
 ### Hello kor
 ```js
 const Koa = require('kor');
