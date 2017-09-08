@@ -1,6 +1,6 @@
 {
   "name": "neat-kor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "wrap router for koa.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhuqiuyang/kor.git"
+    "url": "git+https://github.com/Koa-js/neat-kor.git"
   },
   "keywords": [
     "koa",
@@ -18,9 +18,9 @@
   "author": "zhuqiuyang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhuqiuyang/kor/issues"
+    "url": "https://github.com/Koa-js/neat-kor/issues"
   },
-  "homepage": "https://github.com/zhuqiuyang/kor#readme",
+  "homepage": "https://github.com/Koa-js/neat-kor#readme",
   "dependencies": {
     "koa": "^2.3.0"
   }
