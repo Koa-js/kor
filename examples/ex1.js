@@ -14,4 +14,8 @@ app.all('/ok', (ctx, next) => {
   ctx.body = 'ok'
 })
 
+app.all((ctx, next) => {
+  ctx.body = 'all';
+})
+
 app.listen(8088)
